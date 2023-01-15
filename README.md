@@ -1,2 +1,2 @@
 # legacy-intermediary
-Just an alternative repository in case the original is deleted (even if that's unlikely), or the maven repo is not working (more likely).
+Not totally needed, but it means we don't need to extract mappings, and it will still work if repo.legacyfabric.net has issues.
